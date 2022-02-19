@@ -1,5 +1,5 @@
-SOURCE_URL=https://repo.jellyfin.org/releases/server/debian/versions/jellyfin-ffmpeg/4.3.2-1/jellyfin-ffmpeg_4.3.2-1-bullseye_amd64.deb
-SOURCE_SUM=00bfda23ba65427566a50ce17876973c20350b69cd9ebd069cd7c6f7706414e8
+SOURCE_URL=https://repo.jellyfin.org/releases/server/debian/versions/jellyfin-ffmpeg/4.4.1-1/jellyfin-ffmpeg_4.4.1-1-bullseye_amd64.deb
+SOURCE_SUM=4dc8ebb423900e1c1e02e20ecee7e00a4e527928dff4cd37d35b276ae1dad314
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=false
